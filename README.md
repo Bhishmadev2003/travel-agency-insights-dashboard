@@ -49,8 +49,7 @@ Travel_insights/
 
 ## 📸 Dashboard Preview
 
-![Uploading image.png…]()
-
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/972dc5ba-09b8-4eda-8d04-3dd7de40e21c" />
 
 ---
 
