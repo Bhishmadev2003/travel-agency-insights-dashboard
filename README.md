@@ -1,4 +1,4 @@
-# ✈️ Travel Insights Dashboard (SQL + Python + Excel + Power BI)
+# ✈️ travel-agency-insights-dashboard
 
 This project explores global travel data to uncover patterns in tourist behavior, popular destinations, booking trends, and seasonality. It combines **SQL**, **Pandas**, **Excel**, and an interactive **Power BI dashboard** to deliver actionable insights for travel businesses and tourism boards.
 
