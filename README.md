@@ -22,21 +22,6 @@ This project explores global travel data to uncover patterns in tourist behavior
 
 ---
 
-## 📁 Folder Structure
-
-```
-Travel_insights/
-│
-├── travel_raw_data.xlsx                # Original or cleaned dataset
-├── travel_data_cleaning.sql           # SQL scripts for processing
-├── travel_insights_analysis.ipynb     # Python (Pandas) notebook
-├── travel_dashboard.pbix              # Power BI dashboard
-├── Dashboard_Screenshots/             # Exported dashboard images
-└── README.md
-```
-
----
-
 ## 📊 Key Insights
 
 - 🌍 Top 10 most-visited countries by year  
